@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyCoverLetter</string>
+    <string name="title01">😝 About Me</string>
+    <string name="title02">🛠 My Skills</string>
+    <string name="row01">Name</string>
+    <string name="row02">Hometown</string>
+    <string name="row03">Age</string>
+    <string name="row04">Career</string>
+    <string name="value01">Wonjeong Kim</string>
+    <string name="value02">Incheon</string>
+    <string name="value03">23</string>
+    <string name="value04">Republic of Korea Army sergeant</string>
+    <string name="captitle01">😝 Work Introduction</string>
+    <string name="captitle02">🛠 Applied technology</string>
+    <string name="video_description">Click the image to play the video</string>
+</resources>

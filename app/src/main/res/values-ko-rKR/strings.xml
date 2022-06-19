@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCoverLetter</string>
+    <string name="title01">😝 자기소개</string>
+    <string name="title02">🛠 보유 기술</string>
+    <string name="row01">이름</string>
+    <string name="row02">고향</string>
+    <string name="row03">나이</string>
+    <string name="row04">경력</string>
+    <string name="value03">23세</string>
+    <string name="value01">김원정</string>
+    <string name="value02">인천광역시</string>
+    <string name="value04">대한민국 육군 하사</string>
+    <string name="captitle01">😝 작품소개</string>
+    <string name="captitle02">🛠 적용기술</string>
+    <string name="video_description">이미지를 눌러 비디오를 재생하세요</string>
+</resources>
